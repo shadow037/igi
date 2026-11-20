@@ -19,10 +19,6 @@ An interactive, browser-based learning tracker for a 35-day WordPress Full Stack
 Progress is saved in the visitor's browser using local storage. Use Export progress to back it up or transfer it to another browser.
 
 
-## Browser preview (temporary)
+## Hosting status
 
-Open the interactive tracker through the HTML preview service:
-
-https://htmlpreview.github.io/?https://github.com/shadow037/igi/blob/main/index.html
-
-This is a third-party preview service, not permanent hosting. Do not enter passwords, API keys, or confidential information in the preview; its own documentation warns about risks when previewed scripts use browser storage. For a permanent `github.io` URL, GitHub Pages must be enabled for this repository, which the connected GitHub integration currently cannot authorize.
+The tracker source is committed in this repository. A third-party HTML preview is not used because it may render blank or fail. GitHub Pages must be activated once for this repository; see the instructions above. The GitHub Actions workflow will deploy the site after Pages is enabled.
