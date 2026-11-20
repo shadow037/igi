@@ -23,6 +23,6 @@ Progress is saved in the visitor's browser using local storage. Use Export progr
 
 Open the interactive tracker through the HTML preview service:
 
-https://html-preview.github.io/?url=https://github.com/shadow037/igi/blob/main/index.html
+https://htmlpreview.github.io/?https://github.com/shadow037/igi/blob/main/index.html
 
 This is a third-party preview service, not permanent hosting. Do not enter passwords, API keys, or confidential information in the preview; its own documentation warns about risks when previewed scripts use browser storage. For a permanent `github.io` URL, GitHub Pages must be enabled for this repository, which the connected GitHub integration currently cannot authorize.
